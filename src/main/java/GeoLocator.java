@@ -1,4 +1,4 @@
-package geolocator;
+
 
 import java.net.URL;
 
@@ -9,6 +9,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 import com.google.common.net.UrlEscapers;
 
+//import geolocator.GeoLocation;
 import org.apache.commons.io.IOUtils;
 
 public class GeoLocator {
